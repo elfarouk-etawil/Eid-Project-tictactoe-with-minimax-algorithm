@@ -34,7 +34,5 @@ This project is a command-line implementation of the classic game Tic Tac Toe. I
 
 The Minimax algorithm is a decision-making algorithm commonly used in two-player turn-based games. In the context of Tic Tac Toe, it allows the computer opponent to analyze all possible future moves and choose the best one, assuming that the opponent also plays optimally. This ensures that the computer always makes the best move possible, making it impossible for the player to win in perfect play scenarios.
 
-![Minimax Algorithm Explanation](placeholder_image_url)
-
 
 ![alt text](https://www.sciencebuddies.org/b7jHYJK9CDgSwyDTWcXqSKw4noc=/750x418/-/https/www.sciencebuddies.org/cdn/Files/20103/5/game-tree-tic-tac-toe.png)
